@@ -6,7 +6,7 @@
 ### App Walk-though
 
 
-<img src="https://github.com/hoopisano/Flashcards1/blob/main/Lab2OptionlasWalkthrough.gif" width=200><br>
+<img src="https://github.com/hoopisano/Flashcards1/blob/main/Lab3Walkthrough1.gif" width=200><br>
 
 
 ## Required
